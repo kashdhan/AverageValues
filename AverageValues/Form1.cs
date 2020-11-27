@@ -43,6 +43,7 @@ namespace AverageValues
             numberInput.Text = "0";
             sum = 0;
             totalNumbers = 0;
+
         }
     }
 }
