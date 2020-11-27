@@ -94,10 +94,11 @@
             // 
             this.outputLabel.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.outputLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.outputLabel.Location = new System.Drawing.Point(55, 270);
+            this.outputLabel.Location = new System.Drawing.Point(117, 271);
             this.outputLabel.Name = "outputLabel";
-            this.outputLabel.Size = new System.Drawing.Size(548, 85);
+            this.outputLabel.Size = new System.Drawing.Size(434, 85);
             this.outputLabel.TabIndex = 6;
+            this.outputLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // resetButton
             // 

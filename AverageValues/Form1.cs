@@ -39,7 +39,10 @@ namespace AverageValues
 
         private void ResetButton_Click(object sender, EventArgs e)
         {
-
+            outputLabel.Text = "";
+            numberInput.Text = "0";
+            sum = 0;
+            totalNumbers = 0;
         }
     }
 }
